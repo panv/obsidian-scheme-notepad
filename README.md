@@ -13,5 +13,13 @@ Luckily the developpers thought of everything, and you can actually define your 
 
 ## Warnings and Informations
 
-- The Markdown scheme may act oddly, in particular if you use asterisks or underscores to draw horizontal lines. I recommend using hyphens for horizontal lines, or separating your symbols with spaces.
+- The Markdown scheme may behave oddly, in particular if you use asterisks or underscores to draw horizontal lines. I recommend using hyphens for horizontal lines, or separating your symbols with spaces.
 - This color scheme is for the obsidian theme, but you could make it work with other themes by modifying the `bgColor` value to the hexadecimal value of the background color of the theme you are using. I cannot guarantee the result though.
+
+## Screenshots
+
+- Scala
+![alt text](Screenshots/scala_example.png)
+
+- Markdown
+![alt text](Screenshots/markdown_example.png)
