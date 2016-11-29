@@ -1,19 +1,20 @@
 # Obsidian Colors
 
 Obsidian-based theme for Atom, JetBrains IDEs (mainly IntelliJ and Android Studio), and support of
-Markdown and Scala for the original Notepad++.
+Markdown and Scala for the original Notepad++. This theme adds more colors to the original obsidian theme.
 
 ## Installation
 
 ### Atom
 
+Go to Settings -> Install, search for obsidian-colors in Themes and click install.
 
 ### IntelliJ / Android Studio and other JetBrains IDEs
 
 Two methods:
 
-- Download `obsidian-colors.jar` and import it into your IDE via File -> Import Settings and then check the Editor Colors checkbox.
-- Copy the `obsidian-colors.icls` file into the folder `<yourUserName>\.<IDEname>\config\colors` and restart the IDE.
+- Download `jetbrains\obsidian-colors.jar`, import it into your IDE via File -> Import Settings and then select the Editor Colors box.
+- Copy the `jetbrains\obsidian-colors.icls` file into the folder `<yourUserName>\.<IDEname>\config\colors` and restart the IDE.
 
 ### Notepad++
 
@@ -22,10 +23,20 @@ Two methods:
 
 ## Screenshots
 
+### Atom
+
+![Atom screenshot](screenshots/atom_example.png)
+
+### Android Studio
+
+![Android Studio screenshot](screenshots/)
+
 ### Notepad++
 
 - Scala
-![alt text](Screenshots/scala_example.png)
+
+![Scala screenshot](screenshots/notepad++_scala_example.png)
 
 - Markdown
-![alt text](Screenshots/markdown_example.png)
+
+![Markdown screenshot](screenshots/notepad++_markdown_example.png)
