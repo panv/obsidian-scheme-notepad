@@ -29,7 +29,7 @@ Two methods:
 
 ### Android Studio
 
-![Android Studio screenshot](screenshots/)
+![Android Studio screenshot](screenshots/android_studio_example.png)
 
 ### Notepad++
 
