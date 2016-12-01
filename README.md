@@ -25,18 +25,18 @@ Two methods:
 
 ### Atom
 
-![Atom screenshot](screenshots/atom_example.png)
+![Atom screenshot](https://raw.githubusercontent.com/panv/obsidian-scheme-notepad/screenshots/atom_example.png)
 
 ### Android Studio
 
-![Android Studio screenshot](screenshots/android_studio_example.png)
+![Android Studio screenshot](https://raw.githubusercontent.com/panv/obsidian-scheme-notepad/screenshots/android_studio_example.png)
 
 ### Notepad++
 
 - Scala
 
-![Scala screenshot](screenshots/notepad++_scala_example.png)
+![Scala screenshot](https://raw.githubusercontent.com/panv/obsidian-scheme-notepad/screenshots/notepad++_scala_example.png)
 
 - Markdown
 
-![Markdown screenshot](screenshots/notepad++_markdown_example.png)
+![Markdown screenshot](https://raw.githubusercontent.com/panv/obsidian-scheme-notepad/screenshots/notepad++_markdown_example.png)
